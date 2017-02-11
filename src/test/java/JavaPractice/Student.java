@@ -7,10 +7,10 @@ public class Student {
 	int age;
 	int dump =0;
 	
-	public Student(int sthgno,String namexyz,int age)
+	public Student(int sthgno,String namexyzu,int age)
 	{
 		this.stuno=sthgno;
-		this.name=namexyz;
+		this.name=namexyzu;
 		this.age=age;
 	}
 
