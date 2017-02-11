@@ -8,6 +8,7 @@ public class Student {
 	int dump =0;
 	
 	public Student(int sthgno,String namexyzu,int age)
+	/** new name**/
 	{
 		this.stuno=sthgno;
 		this.name=namexyzu;
