@@ -7,10 +7,11 @@ public class Student {
 	int age=0;
 	int dump =0;
 	
-	public Student(int sthgno,String namexyzu,int age)
+	public Student(int sthgnot,String namexyzu,int age)
 	/** new name**/
 	{
-		this.stuno=sthgno;
+		System.out.println("hello");
+		this.stuno=sthgnot;
 		this.name=namexyzu;
 		this.age=age;
 	}
