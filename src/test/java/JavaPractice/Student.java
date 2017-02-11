@@ -7,9 +7,10 @@ public class Student {
 	int age;
 	
 	/** new name**/
-	public Student(int stno,String name,int age)
+	public Student(int stnop,String name,int age)
 	{
-		this.stuno=stno;
+		System.out.println("jhii");
+		this.stuno=stnop;
 		this.name=name;
 		this.age=age;
 	}
