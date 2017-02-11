@@ -14,7 +14,7 @@ public class Student {
 
 	{
 
-		System.out.println("hellog");
+		System.out.println("hellogh");
 
 		this.stuno=stnop;
 		this.name=name;
