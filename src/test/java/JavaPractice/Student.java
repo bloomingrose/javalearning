@@ -6,6 +6,7 @@ public class Student {
 	String name;
 	int age;
 	
+	/** new name**/
 	public Student(int stno,String name,int age)
 	{
 		this.stuno=stno;
